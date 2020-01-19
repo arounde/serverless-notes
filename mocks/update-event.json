@@ -1,0 +1,11 @@
+{
+  "pathParameters": {
+    "id": "507d7800-3a0c-11ea-8e92-bf4bbd1b01a1"
+  },
+  "body": "{\"content\":\"goodbye\",\"attachment\":\"goodbye.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
